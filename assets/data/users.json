@@ -1,1 +1,60 @@
-[]
+[
+  {
+    "id": "u1",
+    "name": "Quản trị viên",
+    "email": "admin@elearning.com",
+    "password": "Admin@123",
+    "role": "admin",
+    "status": "active",
+    "createdAt": "2026-11-26T00:00:00.000Z"
+  },
+  {
+    "id": "u2",
+    "name": "Nguyễn Minh Anh",
+    "email": "instructor1@elearning.com",
+    "password": "Teacher@123",
+    "role": "instructor",
+    "status": "active",
+    "createdAt": "2026-11-26T00:00:00.000Z",
+    "specialty": "Công nghệ thông tin",
+    "bio": "Giảng viên hướng dẫn thực hành và xây dựng dự án."
+  },
+  {
+    "id": "u3",
+    "name": "Trần Hoàng Nam",
+    "email": "instructor2@elearning.com",
+    "password": "Teacher@123",
+    "role": "instructor",
+    "status": "active",
+    "createdAt": "2026-11-26T00:00:00.000Z",
+    "specialty": "Công nghệ thông tin",
+    "bio": "Giảng viên hướng dẫn thực hành và xây dựng dự án."
+  },
+  {
+    "id": "u4",
+    "name": "Lê Thanh Hà",
+    "email": "student1@elearning.com",
+    "password": "Student@123",
+    "role": "student",
+    "status": "active",
+    "createdAt": "2026-11-26T00:00:00.000Z"
+  },
+  {
+    "id": "u5",
+    "name": "Phạm Quốc Bảo",
+    "email": "student2@elearning.com",
+    "password": "Student@123",
+    "role": "student",
+    "status": "active",
+    "createdAt": "2026-11-26T00:00:00.000Z"
+  },
+  {
+    "id": "u6",
+    "name": "Võ Thu Linh",
+    "email": "student3@elearning.com",
+    "password": "Student@123",
+    "role": "student",
+    "status": "active",
+    "createdAt": "2026-11-26T00:00:00.000Z"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "c1-ch1",
+    "courseId": "c1",
+    "title": "Kiến thức nền tảng",
+    "order": 1
+  },
+  {
+    "id": "c1-ch2",
+    "courseId": "c1",
+    "title": "Thực hành ứng dụng",
+    "order": 2
+  },
+  {
+    "id": "c2-ch1",
+    "courseId": "c2",
+    "title": "Kiến thức nền tảng",
+    "order": 1
+  },
+  {
+    "id": "c2-ch2",
+    "courseId": "c2",
+    "title": "Thực hành ứng dụng",
+    "order": 2
+  },
+  {
+    "id": "c3-ch1",
+    "courseId": "c3",
+    "title": "Kiến thức nền tảng",
+    "order": 1
+  },
+  {
+    "id": "c3-ch2",
+    "courseId": "c3",
+    "title": "Thực hành ứng dụng",
+    "order": 2
+  },
+  {
+    "id": "c4-ch1",
+    "courseId": "c4",
+    "title": "Kiến thức nền tảng",
+    "order": 1
+  },
+  {
+    "id": "c4-ch2",
+    "courseId": "c4",
+    "title": "Thực hành ứng dụng",
+    "order": 2
+  },
+  {
+    "id": "c5-ch1",
+    "courseId": "c5",
+    "title": "Kiến thức nền tảng",
+    "order": 1
+  },
+  {
+    "id": "c5-ch2",
+    "courseId": "c5",
+    "title": "Thực hành ứng dụng",
+    "order": 2
+  }
+]

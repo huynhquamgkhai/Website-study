@@ -1,1 +1,57 @@
-[]
+[
+  {
+    "id": "c1",
+    "instructorId": "u2",
+    "categoryId": "cat2",
+    "title": "HTML5 cơ bản",
+    "desc": "Khóa học nhập môn với bài tập thực hành về HTML5 cơ bản.",
+    "price": 99000,
+    "level": "beginner",
+    "thumbnail": "assets/img/course-1.svg",
+    "status": "published"
+  },
+  {
+    "id": "c2",
+    "instructorId": "u2",
+    "categoryId": "cat2",
+    "title": "CSS3 Responsive",
+    "desc": "Khóa học nhập môn với bài tập thực hành về CSS3 Responsive.",
+    "price": 198000,
+    "level": "beginner",
+    "thumbnail": "assets/img/course-2.svg",
+    "status": "published"
+  },
+  {
+    "id": "c3",
+    "instructorId": "u2",
+    "categoryId": "cat1",
+    "title": "JavaScript căn bản",
+    "desc": "Khóa học nhập môn với bài tập thực hành về JavaScript căn bản.",
+    "price": 297000,
+    "level": "beginner",
+    "thumbnail": "assets/img/course-3.svg",
+    "status": "published"
+  },
+  {
+    "id": "c4",
+    "instructorId": "u3",
+    "categoryId": "cat1",
+    "title": "jQuery thực hành",
+    "desc": "Khóa học nhập môn với bài tập thực hành về jQuery thực hành.",
+    "price": 396000,
+    "level": "beginner",
+    "thumbnail": "assets/img/course-4.svg",
+    "status": "published"
+  },
+  {
+    "id": "c5",
+    "instructorId": "u3",
+    "categoryId": "cat3",
+    "title": "Mạng máy tính nhập môn",
+    "desc": "Khóa học nhập môn với bài tập thực hành về Mạng máy tính nhập môn.",
+    "price": 495000,
+    "level": "beginner",
+    "thumbnail": "assets/img/course-5.svg",
+    "status": "published"
+  }
+]

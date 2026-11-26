@@ -1,1 +1,1 @@
-// assets/js/common/toast.js - file dùng chung (chỉ TV1 chỉnh sửa)
+const Toast={show(msg,type){let region=$('#toast-region');if(!region.length)region=$('<div id="toast-region" role="status" aria-live="polite"></div>').appendTo('body');const item=$('<div>').text(msg).css('background',type==='error'?'var(--danger)':'var(--success)').appendTo(region);setTimeout(()=>item.remove(),4000);},success(msg){this.show(msg,'success');},error(msg){this.show(msg,'error');}};

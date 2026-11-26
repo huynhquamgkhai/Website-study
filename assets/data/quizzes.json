@@ -1,1 +1,317 @@
-[]
+[
+  {
+    "id": "quiz1",
+    "courseId": "c1",
+    "title": "Kiểm tra HTML5 cơ bản",
+    "duration": 10,
+    "questions": [
+      {
+        "id": "c1-q1",
+        "question": "Thẻ tiêu đề cấp cao nhất?",
+        "options": [
+          "h1",
+          "p",
+          "div",
+          "span"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": "c1-q2",
+        "question": "Thuộc tính ảnh mô tả thay thế?",
+        "options": [
+          "src",
+          "href",
+          "id",
+          "alt"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": "c1-q3",
+        "question": "Thẻ tạo liên kết?",
+        "options": [
+          "form",
+          "main",
+          "a",
+          "img"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": "c1-q4",
+        "question": "Thẻ nhập liệu?",
+        "options": [
+          "article",
+          "input",
+          "footer",
+          "nav"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": "c1-q5",
+        "question": "Thẻ nội dung chính?",
+        "options": [
+          "main",
+          "aside",
+          "head",
+          "meta"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "quiz2",
+    "courseId": "c2",
+    "title": "Kiểm tra CSS3 Responsive",
+    "duration": 10,
+    "questions": [
+      {
+        "id": "c2-q1",
+        "question": "Thuộc tính đổi màu chữ?",
+        "options": [
+          "color",
+          "background",
+          "margin",
+          "width"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": "c2-q2",
+        "question": "Khoảng cách bên trong?",
+        "options": [
+          "margin",
+          "display",
+          "position",
+          "padding"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": "c2-q3",
+        "question": "Bật Flexbox bằng?",
+        "options": [
+          "display:none",
+          "position:fixed",
+          "display:flex",
+          "float:left"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": "c2-q4",
+        "question": "Quy tắc responsive?",
+        "options": [
+          "@keyframes",
+          "@media",
+          "@font-face",
+          "@import"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": "c2-q5",
+        "question": "Đơn vị theo chiều rộng viewport?",
+        "options": [
+          "vw",
+          "px",
+          "s",
+          "deg"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "quiz3",
+    "courseId": "c3",
+    "title": "Kiểm tra JavaScript căn bản",
+    "duration": 10,
+    "questions": [
+      {
+        "id": "c3-q1",
+        "question": "Khai báo biến phạm vi khối?",
+        "options": [
+          "let",
+          "print",
+          "echo",
+          "def"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": "c3-q2",
+        "question": "Kiểu của true?",
+        "options": [
+          "number",
+          "string",
+          "object",
+          "boolean"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": "c3-q3",
+        "question": "Thêm cuối mảng?",
+        "options": [
+          "shift",
+          "join",
+          "push",
+          "pop"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": "c3-q4",
+        "question": "Chọn phần tử theo ID?",
+        "options": [
+          "setTimeout",
+          "getElementById",
+          "parseInt",
+          "alert"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": "c3-q5",
+        "question": "So sánh nghiêm ngặt?",
+        "options": [
+          "===",
+          "=",
+          "!=",
+          "+"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "quiz4",
+    "courseId": "c4",
+    "title": "Kiểm tra jQuery thực hành",
+    "duration": 10,
+    "questions": [
+      {
+        "id": "c4-q1",
+        "question": "Hàm chọn phần tử?",
+        "options": [
+          "$",
+          "Math",
+          "Date",
+          "JSON"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": "c4-q2",
+        "question": "Gắn sự kiện?",
+        "options": [
+          "css",
+          "html",
+          "val",
+          "on"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": "c4-q3",
+        "question": "Đọc giá trị input?",
+        "options": [
+          "show",
+          "addClass",
+          "val",
+          "hide"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": "c4-q4",
+        "question": "Ẩn phần tử?",
+        "options": [
+          "find",
+          "hide",
+          "append",
+          "text"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": "c4-q5",
+        "question": "Nạp HTML từ URL?",
+        "options": [
+          "load",
+          "remove",
+          "attr",
+          "each"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "quiz5",
+    "courseId": "c5",
+    "title": "Kiểm tra Mạng máy tính nhập môn",
+    "duration": 10,
+    "questions": [
+      {
+        "id": "c5-q1",
+        "question": "DNS dùng để làm gì?",
+        "options": [
+          "Phân giải tên miền",
+          "Nén ảnh",
+          "Tạo mật khẩu",
+          "Vẽ giao diện"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": "c5-q2",
+        "question": "IPv4 dài bao nhiêu bit?",
+        "options": [
+          "16",
+          "64",
+          "128",
+          "32"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": "c5-q3",
+        "question": "HTTP thuộc lớp nào?",
+        "options": [
+          "Liên kết",
+          "Mạng",
+          "Ứng dụng",
+          "Vật lý"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": "c5-q4",
+        "question": "Thiết bị định tuyến?",
+        "options": [
+          "Máy in",
+          "Router",
+          "Bàn phím",
+          "Màn hình"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": "c5-q5",
+        "question": "HTTPS thường dùng cổng?",
+        "options": [
+          "443",
+          "21",
+          "25",
+          "53"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  }
+]

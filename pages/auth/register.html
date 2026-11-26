@@ -13,10 +13,7 @@
 <body>
   <div id="header"></div>
 
-  <main class="container">
-    <h1>Đăng ký</h1>
-    <!-- TODO: nội dung trang -->
-  </main>
+  <main class="container"><section class="card auth-shell"><h1>Đăng ký</h1><p class="auth-intro">Chọn vai trò phù hợp với bạn.</p><div class="auth-message hidden" id="auth-message" role="alert"></div><form id="auth-form" data-page="register" novalidate><div class="tabs" role="group" aria-label="Vai trò đăng ký"><button type="button" class="btn active" data-role="student" aria-pressed="true">Học viên</button><button type="button" class="btn" data-role="instructor" aria-pressed="false">Giảng viên</button></div><div class="form-group"><label class="form-label" for="name">Họ tên</label><input class="form-control" id="name" name="name" type="text" autocomplete="name" required><span class="form-error" id="error-name"></span></div><div class="form-group"><label class="form-label" for="email">Email</label><input class="form-control" id="email" name="email" type="email" autocomplete="email" required><span class="form-error" id="error-email"></span></div><div class="form-group"><label class="form-label" for="password">Mật khẩu</label><input class="form-control" id="password" name="password" type="password" autocomplete="new-password" minlength="6" required><span class="form-error" id="error-password"></span></div><div class="form-group"><label class="form-label" for="confirmPassword">Xác nhận mật khẩu</label><input class="form-control" id="confirmPassword" name="confirmPassword" type="password" autocomplete="new-password" minlength="6" required><span class="form-error" id="error-confirmPassword"></span></div><div id="instructor-fields" class="hidden"><div class="form-group"><label class="form-label" for="specialty">Chuyên môn</label><input class="form-control" id="specialty" name="specialty" type="text"  required><span class="form-error" id="error-specialty"></span></div><div class="form-group"><label class="form-label" for="bio">Giới thiệu ngắn</label><textarea class="form-control" id="bio" name="bio" maxlength="500"></textarea><span class="form-error" id="error-bio"></span></div></div><button class="btn btn-primary" type="submit">Đăng ký</button><div class="auth-links"><a href="login.html">Đã có tài khoản? Đăng nhập</a></div></form></section></main>
 
   <div id="footer"></div>
 
